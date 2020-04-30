@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classification>
+    <modelVersion>1.0.0</modelVersion>
+    <status>successful</status>
+    <results>
+        <result>
+            <rank>1</rank>
+            <cpc>H04W8/00</cpc>
+            <confidence>0.6678977012634277</confidence>
+        </result>
+        <result>
+            <rank>2</rank>
+            <cpc>H04W48/00</cpc>
+            <confidence>0.2082531750202179</confidence>
+        </result>
+        <result>
+            <rank>3</rank>
+            <cpc>H04W60/00</cpc>
+            <confidence>0.013425858691334724</confidence>
+        </result>
+    </results>
+</classification>
